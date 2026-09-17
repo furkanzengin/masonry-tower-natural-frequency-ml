@@ -15,6 +15,7 @@ This repository intentionally contains **only the datasets and code** required f
 masonry-tower-natural-frequency-ml/
 │
 ├── README.md
+├── requirements.txt
 ├── .gitignore
 │
 ├── data/
